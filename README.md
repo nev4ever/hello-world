@@ -1,3 +1,3 @@
 # hello-world
 test
-Hello, I try to lern github
+Hello, I try to learn github
